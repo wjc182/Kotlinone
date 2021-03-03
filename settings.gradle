@@ -1,0 +1,4 @@
+include ':kotlinxc'
+include ':kotlinjh'
+include ':app'
+rootProject.name = "KT"
